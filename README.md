@@ -1,5 +1,9 @@
 # Data
 
+## VM WORKSTATION PRO
+Make sure you have a valid lincense key.
+[Download version 17](https://www.vmware.com/go/getworkstation-win)
+
 ## Windows 11 Kiosk Client
 
 ### ISO FILE
